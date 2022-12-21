@@ -1,5 +1,5 @@
-# .NET 5 Quality Assurance coding rules and best practices
-An opinionated set of files and configurations usefull to enforce coding best practices and uniformity in .NET 5 projects
+# .NET 6 Quality Assurance coding rules and best practices
+An opinionated set of files and configurations usefull to enforce coding best practices and uniformity in .NET 6 projects
 
 # Usage
 Just copy all the files into the root of your target solution and/or related subfolders as needed (if and when an override/extension is required).
